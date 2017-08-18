@@ -1,7 +1,13 @@
-Open Data Portals Collaboration and Relatedness Analysis Service
+Open Data Portals Collaboration and Relatedness Analysis Service [CKAN Portals based]
 =====================
-...
 
+A - Publications:
+
+[1] “Mining Governmental Collaboration through Semantic Profiling of Open Government Data Publishers” In press
+
+B- notes:
+
+Code will be released after patent registration of a related product..
 
 
 mongodb installation [one time only]
