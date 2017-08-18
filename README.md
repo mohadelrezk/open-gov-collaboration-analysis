@@ -32,10 +32,6 @@ config.py [setting Stanford NER credinalities]
 
 
 
-
-
-
-
 Running the service:
 --------------------
 
@@ -72,13 +68,50 @@ arg 8: (Optional) Run Named Entity Recognition process or not ex: True, default 
 arg 9: (Optional) Build Network or not ex: net, By default it will not run unless requested
 
 
-[4] Start websevice and visulization:
+[4] Start webservice and visualisation:
 ```
 $ python rtpa-publisher-network-builder.py
 ```
 
 
+Screen Samples
+-----
 
-Last Update
+![img](screen_samples/s0.png)
+
+![img](screen_samples/s00.jpg)
+
+![img](screen_samples/s01.jpg)
+
+![img](screen_samples/s02.jpg)
+
+![img](screen_samples/s03.jpg)
+
+![img](screen_samples/s1.png)
+
+![img](screen_samples/s2.png)
+
+![img](screen_samples/s3.png)
+
+![img](screen_samples/s4.png)
+
+![img](screen_samples/s5.png)
+
+![img](screen_samples/s6.png)
+
+![img](screen_samples/s7.png)
+
+![img](screen_samples/s8.png)
+
+![img](screen_samples/s9.png)
+
+![img](screen_samples/s10.png)
+
+![img](screen_samples/s11.png)
+
+![img](screen_samples/s12.png)
+
+
+
 ------------
-16 August 2017
+Last Update 16 August 2017
